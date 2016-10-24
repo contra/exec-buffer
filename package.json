@@ -1,6 +1,6 @@
 {
   "name": "exec-buffer",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Run a buffer through a child process",
   "license": "MIT",
   "repository": "kevva/exec-buffer",
@@ -23,7 +23,7 @@
     "exec"
   ],
   "dependencies": {
-    "execa": "^0.4.0",
+    "execa": "^0.5.0",
     "pify": "^2.3.0",
     "tempfile": "^1.0.0"
   },
